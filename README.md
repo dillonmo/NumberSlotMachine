@@ -1,1 +1,1 @@
-# NumberSlotMachine
+# NumbersSlotMachine
