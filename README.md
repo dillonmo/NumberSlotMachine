@@ -6,6 +6,8 @@ A UIView for numbers changing animation
 
 ## Usage
 
+Configure with frame, color, and whether the digits increase/decrease and scroll up/down.
+
 ```
     nsm = NumbersSlotMachine()
     nsm.frame = CGRect(x: 15, y: 30, width: self.view.bounds.width - 30, height: self.view.bounds.height - 500)
